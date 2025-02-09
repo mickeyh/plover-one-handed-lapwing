@@ -1,0 +1,141 @@
+[
+  {
+    "css": "span {\n    font-weight: bold;\n}\n.left {\n    color: green;\n}\n.right {\n    color: red;\n}"
+  },
+  [
+    {
+      "a": 7,
+      "f": 5
+    },
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    {
+      "w": 2
+    },
+    ""
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "",
+    {
+      "a": 5
+    },
+    "\n<span class='right'>-D</span>",
+    "<span class='left'>-</span>\n<span class='right'>-T</span>",
+    "<span class='left'>T-</span>\n<span class='right'>-L</span>",
+    "<span class='left'>P-</span>\n<span class='right'>-P</span>",
+    "<span class='left'>H-</span>\n<span class='right'>-F</span>",
+    "<span class='left'>*</span>\n<span class='right'>-</span>",
+    "<span class='left'>H-</span>\n<span class='right'>-F</span>",
+    "<span class='left'>P-</span>\n<span class='right'>-P</span>",
+    "<span class='left'>T-</span>\n<span class='right'>-L</span>",
+    "<span class='left'>-</span>\n<span class='right'>-T</span>",
+    "\n<span class='right'>-D</span>",
+    {
+      "a": 7
+    },
+    "",
+    {
+      "w": 1.5
+    },
+    ""
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "",
+    {
+      "a": 5
+    },
+    "\n<span class='right'>-Z</span>",
+    "<span class='left'>S-</span>\n<span class='right'>-S</span>",
+    "<span class='left'>K-</span>\n<span class='right'>-G</span>",
+    "<span class='left'>W-</span>\n<span class='right'>-B</span>",
+    "<span class='left'>R-</span>\n<span class='right'>-R</span>",
+    "<span class='left'>*</span>\n<span class='right'>-</span>",
+    "<span class='left'>R-</span>\n<span class='right'>-R</span>",
+    "<span class='left'>W-</span>\n<span class='right'>-B</span>",
+    "<span class='left'>K-</span>\n<span class='right'>-G</span>",
+    "<span class='left'>S-</span>\n<span class='right'>-S</span>",
+    "\n<span class='right'>-Z</span>",
+    {
+      "a": 7,
+      "w": 2.25
+    },
+    ""
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "",
+    "",
+    "",
+    "",
+    {
+      "a": 5
+    },
+    "<span class='left'>A-</span>\n<span class='right'>-U</span>",
+    "<span class='left'>O-</span>\n<span class='right'>-E</span>",
+    "<span class='left'>O-</span>\n<span class='right'>-E</span>",
+    "<span class='left'>A-</span>\n<span class='right'>-U</span>",
+    {
+      "a": 7
+    },
+    "",
+    "",
+    "",
+    {
+      "w": 2.75
+    },
+    ""
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 6.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    ""
+  ]
+]
